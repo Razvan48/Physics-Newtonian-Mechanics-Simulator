@@ -1,0 +1,2 @@
+C:\Users\razvan\Desktop\Physics Newtonian Mechanics Simulator\Debug\Physics Newtonian Mechanics Simulator.exe
+C:\Users\razvan\Desktop\Physics Newtonian Mechanics Simulator\Debug\Physics Newtonian Mechanics Simulator.pdb
