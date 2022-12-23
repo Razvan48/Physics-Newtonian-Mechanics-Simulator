@@ -1,1 +1,1 @@
-# Physics-Newtonian-Mechanics-Simulator
+# Physics-Newtonian-Mechanics-Simulator | _C++, OpenGL, Physics, Newtonian Mechanics, Collisions_
