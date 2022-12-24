@@ -11,6 +11,6 @@
 **Controls:** <br/>
 
 &emsp; WASD for moving around capsules <br/>
-&emsp; Button Q and E for rotating the capsule <br/>
+&emsp; Button Q and E for rotating capsules <br/>
 
 
