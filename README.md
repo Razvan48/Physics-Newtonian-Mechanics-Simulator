@@ -1,4 +1,4 @@
-# Physics-Newtonian-Mechanics-Simulator | _C++, OpenGL, Physics, Newtonian Mechanics, Collisions, Visual Studio_
+# Physics-Newtonian-Mechanics-Simulator
 
 &emsp; This is a simple Newtonian Mechanics simulator, featuring capsules and balls as physical objects. <br/>
 &emsp; There are plastic and elastic collisions between the balls and a complete elastic one between a ball and a capsule (the capsule is considered a massive object in comparison with a ball). <br/>
@@ -9,8 +9,7 @@
 </p>
 
 **Controls:** <br/>
-
-&emsp; WASD for moving around capsules <br/>
-&emsp; Button Q and E for rotating capsules <br/>
+- WASD for moving around capsules <br/>
+- Button Q and E for rotating capsules <br/>
 
 
